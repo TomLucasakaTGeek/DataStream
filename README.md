@@ -9,10 +9,10 @@ Welcome to the **AI-Enhanced Sustainability Data Platform**, a project designed 
 Here’s how the project is organized to keep components modular and easy to understand:
 
 > sustainability-platform/
-    ├── data-source/          # Handles real-time data ingestion
-    ├── data-processor/       # Processes and aggregates data
-    ├── analyzer/             # Applies machine learning for analysis
-    ├── data-service/         # Serves insights via REST APIs
-    ├── storage/              # Manages data persistence
-    ├── docker/               # Dockerfiles for containerization
-    └── k8s/                  # Kubernetes manifests for deployment
+├── data-source/          # Handles real-time data ingestion
+├── data-processor/       # Processes and aggregates data
+├── analyzer/             # Applies machine learning for analysis
+├── data-service/         # Serves insights via REST APIs
+├── storage/              # Manages data persistence
+├── docker/               # Dockerfiles for containerization
+└── k8s/                  # Kubernetes manifests for deployment
